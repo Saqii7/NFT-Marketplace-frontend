@@ -1,5 +1,5 @@
 import React from 'react'
-import Place from '../assets/placeholder.png'
+import Placehol from '../assets/placeholder.png'
 import { MdOutlineMailOutline } from "react-icons/md";
 import { HiOutlineLockClosed } from "react-icons/hi";
 
@@ -22,7 +22,7 @@ const Hero = () => {
                 </div>
             </div>
         </div>
-            <img src={Place} alt="" className='h-60 md:h-full md:w-[50%] object-contain' />
+            <img src={Placehol} alt={Placehol} className='h-60 md:h-full md:w-[50%] object-contain' />
         
     </div>
   )
