@@ -23,7 +23,7 @@ const Navbar = () => {
             <img src={Logo} alt='Icons' /> NFT Marketplace
           </h1>
         </div>
-        <div className='lg:flex hidden gap-8 list-none items-center font-semibold'>
+        <div className='lg:flex hidden gap-7 list-none items-center font-semibold'>
           <li>Marketplace</li>
           <li>Ranking</li>
           <li>Connect a wallet</li>
